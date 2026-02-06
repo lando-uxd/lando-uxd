@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @lando-uxd
+- 👋 Hi, I’m Lando UXD
 - 👀 I’m interested in apps that help people
-- 🌱 I’m currently running a startup @ viewshr.com
-- 💞️ I’m looking for co-founders that can sell to industry
+- 🌱 I’m currently running a startup viewshr.com
+- 💞️ I’m looking for co-founders that can help position our product in industry
 - 📫 Reach me @ lando.uxd@gmail.com or jesse.x@viewshr.com
